@@ -4,7 +4,7 @@
 
 * **Name:** Old Target
 * **Category:** SIEM
-* **Point:** 500
+* **Point:** 250
 * **Author:** aseng
 * **Desc:** 
 ````
