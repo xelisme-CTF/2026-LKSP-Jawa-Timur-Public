@@ -22,7 +22,7 @@ Example: If you found the domain name is haka.LOCAL then the NetBIOS name is HAK
 
 ## Summary
 
-NetBIOS Domain adalah nama pendek (legacy name) yang digunakan oleh protokol NetBIOS/SMB lama untuk mengidentifikasi sebuah domain Windows atau workgroup.
+NetBIOS Domain is a short name (legacy name) used by the old NetBIOS/SMB protocol to identify a Windows domain or workgroup.
 
 Example:
 
