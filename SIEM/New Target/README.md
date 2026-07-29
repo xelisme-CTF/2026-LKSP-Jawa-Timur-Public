@@ -29,7 +29,7 @@ In July 5th 2025, there's a brute force attempt logged that involve from SMB pro
 * In July 5th 2025 there is Event ID 4625 (shows invalid login), which is brute-force do much of failure this is will lead us to known the answer of the question above. And there use NOT Kerberos then the question leads us to first user againts brute-force.
 
 Search Field:
->![search field](./2026-07-29-203059_hyprshot.png) 
+>![search field](./2026-07-29-210436_hyprshot.png) 
 
 Filter:
 >![filter](./2026-07-29-205410_hyprshot.png) 
